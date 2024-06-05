@@ -1,0 +1,8 @@
+[package]
+name = "mania_id"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+more-asserts = "0.3.1"
+nanoid = "0.4.0"
